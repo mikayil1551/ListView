@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\bin\Debug\4.18.2021ListView.exe.config
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\bin\Debug\4.18.2021ListView.exe
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\bin\Debug\4.18.2021ListView.pdb
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\obj\Debug\4.18.2021ListView.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\obj\Debug\_4._18._2021ListView.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\obj\Debug\_4._18._2021ListView.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\obj\Debug\4.18.2021ListView.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\obj\Debug\4.18.2021ListView.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\obj\Debug\4.18.2021ListView.exe
+C:\Users\User\Desktop\YenidenC#\4.18.2021\4.18.2021ListView\4.18.2021ListView\obj\Debug\4.18.2021ListView.pdb
